@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/mimir-software-factory/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/mimir-software-factory/)
 [![Email](https://img.shields.io/badge/Email-mimirsoftwarefactory%40gmail.com-red)](mailto:mimirsoftwarefactory@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B61%200433--514--560-green)](tel:+610433514560)
 
 ---
 
@@ -171,7 +170,6 @@ Ready to transform your business with AI and data science? Let's start the conve
 Book a 30-minute strategy session to explore how AI and data science can accelerate your business goals.
 
 **📧 Email**: [mimirsoftwarefactory@gmail.com](mailto:mimirsoftwarefactory@gmail.com)  
-**📱 Phone**: [(+61) 0433-514-560](tel:+610433514560)  
 **🌍 Location**: Global Remote Team  
 **🌐 Website**: [mimir-software-factory.github.io](https://mimir-software-factory.github.io)
 
@@ -191,7 +189,7 @@ Whether you're looking to:
 
 <div align="center">
   
-### 🔮 *"In Norse mythology, Mímir was the keeper of the well of wisdom. Let us be the keepers of your data wisdom."*
+### 🔮 *"In Norse mythology, Mímir was the keeper of the well of wisdom. Let us build data-driven solutions."*
 
 **Transform • Innovate • Succeed**
 
