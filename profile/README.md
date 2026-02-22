@@ -24,8 +24,6 @@ We work with businesses at every stage — from early-stage data strategy all th
 
 > *In Norse mythology, Mímir was the keeper of the well of wisdom. We build the data infrastructure that lets your organization drink from it.*
 
----
-
 ## Services
 
 <table>
@@ -51,8 +49,6 @@ AI strategy and roadmap development, technical audits of existing systems, team 
   </tr>
 </table>
 
----
-
 ## Our Engagement Model
 
 We follow a structured, five-phase delivery process designed to minimize risk and maximize value at every step.
@@ -65,8 +61,6 @@ We follow a structured, five-phase delivery process designed to minimize risk an
 | **04 · Deployment** | Production rollout, performance monitoring, optimization | Live system |
 | **05 · Support** | Model retraining, feature enhancements, ongoing technical support | SLA-backed maintenance |
 
----
-
 ## Technology Stack
 
 <div align="center">
@@ -77,7 +71,8 @@ We follow a structured, five-phase delivery process designed to minimize risk an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -89,7 +84,6 @@ We follow a structured, five-phase delivery process designed to minimize risk an
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Rust](https://shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### ML & Data Science
 
@@ -111,7 +105,7 @@ We follow a structured, five-phase delivery process designed to minimize risk an
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbtlabs&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
@@ -127,7 +121,7 @@ We follow a structured, five-phase delivery process designed to minimize risk an
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -144,6 +138,7 @@ We follow a structured, five-phase delivery process designed to minimize risk an
 
 ### Databases & Storage
 
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
@@ -163,8 +158,6 @@ We follow a structured, five-phase delivery process designed to minimize risk an
 
 </div>
 
----
-
 ## Our Team
 
 <table align="center">
@@ -178,8 +171,6 @@ We follow a structured, five-phase delivery process designed to minimize risk an
     </td>
   </tr>
 </table>
-
----
 
 ## Get In Touch
 
@@ -196,10 +187,7 @@ We offer a **free 30-minute strategy consultation** to explore how AI and data s
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1b2838&height=60&fontSize=13&fontColor=4a6580&text=©%202025%20Mímir%20Software%20Factory" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:1b2838&height=60&fontSize=13&fontColor=4a6580&text=%C2%A9%202026%20Mimir%20Software%20Factory%20-%20Be%20Data-Driven.%20All%20rights%20reserved." width="100%" />
 </div>
